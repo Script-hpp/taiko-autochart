@@ -2,3 +2,6 @@ dataset-dirty/
 dataset-semi/
 missing_files.log
 tools/
+mel_features
+dataset-labels-pt
+model/__pycache__
