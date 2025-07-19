@@ -16,8 +16,8 @@ See the checklist below for live progress!
 
 | Task                                           | Status       |
 |------------------------------------------------|--------------|
-| 🎧 Audio conversion (`.ogg` → `.wav`)           | ⬜ Not started |
-| 🗂 Dataset folder organization                  | ⬜ Not started |
+| 🎧 Audio conversion (`.ogg` → `.wav`)           | ✅ Done |
+| 🗂 Dataset folder organization                  | ✅ Done |
 | 📝 `.tja` parser + label extractor             | ⬜ Not started |
 | 🔄 Dataset splitter (train/val/test)           | ⬜ Not started |
 | 🧠 Model architecture (CNN)                    | ⬜ Not started |
